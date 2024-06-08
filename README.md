@@ -4,12 +4,13 @@
 
 - Python
 - Golang
-- C/C++
+- C/C++ (Learning)
 
 ### 🗃️Databases
 
-* MongoDB
-* Neo4J
+- MongoDB
+- Neo4J
+- PostgreSQL (Learning)
 
 ### 📣Contact
 
