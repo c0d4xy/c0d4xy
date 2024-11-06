@@ -1,20 +1,2 @@
-## Yo, Codaxy here! 👋
-
-### ⚙️Tech Stack
-
-- Python
-- Golang
-- C/C++ (Learning)
-
-### 🗃️Databases
-
-- MongoDB
-- Neo4J
-- PostgreSQL (Learning)
-
-### 📣Contact
-
-- **Discord:** [@codaxy](https://discord.com/users/181499900222111745)
-- **Telegram:** [@virgingod](https://t.me/@virgingod)
-- **Email:** codaxy@duck.com
-***
+<img src="https://imgur.com/oQs11H7.png" width="200"/>
+ <img src="https://skillicons.dev/icons?i=py,go,c,cpp,mongo,postgresql">
